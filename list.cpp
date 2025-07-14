@@ -2,6 +2,8 @@
 #include <list>
 using namespace std;
 
+//this is linked list
+
 class Node{
 public :
     int data;
