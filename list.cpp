@@ -2,6 +2,8 @@
 #include <list>
 using namespace std;
 
+//this is linked list
+
 class Node{
 public :
     int data;
@@ -175,3 +177,5 @@ int main(){
 
     return 0;
 }
+
+//for check
